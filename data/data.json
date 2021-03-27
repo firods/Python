@@ -1,0 +1,19 @@
+{
+	"credentials": [{
+		"both_valid": {
+			"uname": "aaaa",
+			"pwd": "bbb",
+			"msg": "verify email id",
+		},
+		"uname_valid": {
+			"uname": "cccc",
+			"pwd": "dddd",
+			"msg": "please enter valid password"
+		},
+		"pwd_valid": {
+			"uname": "eeee",
+			"pwd": "ffff",
+			"msg": "please enter valid uname"
+		}
+	}]
+}
